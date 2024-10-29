@@ -1,0 +1,107 @@
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.main-head {
+  background-image: url(./images/images.jpg);
+  background-size: contain;
+  padding: 20px;
+  margin: 10px;
+  
+
+}
+
+nav {
+display: none;
+gap: 1rem;
+
+}
+.logo {
+ display: flex;
+ flex-wrap: wrap;
+ gap: 1rem;
+ width: 100%;
+}
+
+.sec-two {
+  width: 100%;
+
+}
+
+.logo img {
+  width: 45px;
+  height: 45px;
+  padding: 20px;
+  margin: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.sec-three {
+  background-image:url(./images/imagesec3.jpg) ;
+  background-size: cover;
+  padding: 20px;
+  margin: 10px;
+}
+.work {
+  display: flex;
+  gap: 3rem;
+  padding: 20px;
+  margin: 10px;
+  background-color: aqua;
+}
+.sec-four {
+  padding: 20px;
+  margin: 10px;
+}
+.footer {
+
+  background-color: chocolate;
+  padding: 20px;
+  margin: 10px;
+
+}
+.line {
+  
+}
+.main {
+  display: flex;
+  justify-content: space-between;
+  padding: 2opx;
+  margin: 10px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sec-seven img {
+  width: 50px;
+  height: 30px;
+}
+
+.sec-eight img {
+  width: 50px;
+  height: 30px;
+}
+
+.sec-six img {
+width: 50;
+height: 30px;
+}
+
+.sec-six {
+  padding: 20px;
+  margin: 10px;
+}
+
+.sec-five img {
+  width: 50px;
+  height: 30px;
+
+}
+
+
+
