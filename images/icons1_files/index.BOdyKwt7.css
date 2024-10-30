@@ -1,0 +1,1 @@
+.metro-colors{overflow:hidden;padding:.75rem}.metro-colors .color{align-items:flex-end;display:flex;font-size:1.5rem;justify-content:flex-start;line-height:2rem;padding:1.5rem}@media (min-width:768px){.metro-colors{display:grid;grid-template-columns:repeat(5,1fr);grid-template-rows:repeat(4,1fr);height:100%}}

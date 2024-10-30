@@ -1,0 +1,1 @@
+.social-colors{overflow:hidden;padding:.75rem}.social-colors .color{align-items:flex-end;display:flex;font-size:1.25rem;justify-content:flex-start;line-height:1.75rem;padding:1.5rem}@media (min-width:768px){.social-colors{display:grid;grid-template-columns:repeat(5,1fr);grid-template-rows:repeat(7,1fr);height:100%}}
