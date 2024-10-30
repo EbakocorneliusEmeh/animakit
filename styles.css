@@ -1,9 +1,9 @@
 .material-symbols-outlined {
-   font-variation-settings:
-    "FILL" 0
-    "wght" 400
-    "GRAD" 0
-    "opsz"  2
+  font-variation-settings:
+  "FILL" 0
+  "wght" 400
+  "GRAD" 0
+  "opsz"  2;
 }
 
 .main-head {
@@ -11,25 +11,22 @@
   background-size: contain;
   padding: 20px;
   margin: 10px;
-
 }
 
 nav {
-display: none;
-gap: 1rem;
-
+  display: none;
+  gap: 1rem;
 }
 
 .logo {
- display: flex;
- flex-wrap: wrap;
- gap: 1rem;
- width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  width: 100%;
 }
 
 .sec-two {
   width: 100%;
-
 }
 
 .logo img {
@@ -40,12 +37,14 @@ gap: 1rem;
   display: flex;
   flex-wrap: wrap;
 }
+
 .sec-three {
-  background-image:url(./images/imagesec3.jpg) ;
+  background-image:url("./images/imagesec3.jpg") ;
   background-size: cover;
   padding: 20px;
   margin: 10px;
 }
+
 .work {
   display: flex;
   gap: 3rem;
@@ -53,27 +52,24 @@ gap: 1rem;
   margin: 10px;
   background-color: aqua;
 }
+
 .sec-four {
   padding: 20px;
   margin: 10px;
 }
-.footer {
 
+.footer {
   background-color: chocolate;
   padding: 20px;
   margin: 10px;
+}
 
-}
-.line {
-  
-}
 .main {
   display: flex;
   justify-content: space-between;
-  padding: 2opx;
+  padding: 20px;
   margin: 10px;
   width: 100%;
-  display: flex;
   flex-wrap: wrap;
 }
 
@@ -88,8 +84,8 @@ gap: 1rem;
 }
 
 .sec-six img {
-width: 50;
-height: 30px;
+  width: 50px;
+  height: 30px;
 }
 
 .sec-six {
@@ -100,12 +96,11 @@ height: 30px;
 .sec-five img {
   width: 50px;
   height: 31px;
-
 }
+
 .sec-five {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-
 }
